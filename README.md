@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Saba Ramzan</h1>
 <h3 align="center">A passionate DevOps Engineer from Pakistan.</h3>
 
-- 🌱 I’m currently learning **Kubernetes, prometheus and grafana to enhnace my DevOps skills.**
+- 🌱 I’m a DevOps Engineer skilled in linux, AWS cloud, docker, jenkins, github actions and terraform. I am currently learning kubernetes, prometheus and grafana to enhance my DevOps skills.**
 
 - 👯 I’m looking to collaborate on **DevOps and Cloud projects.**
 
