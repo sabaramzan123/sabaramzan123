@@ -4,7 +4,6 @@
 Junior DevOps Engineer
 </h3>
 
-<img align="right" alt="DevOps Automation" width="380" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=amanpathak-devops&label=Profile%20views&color=0e75b6&style=flat" />
@@ -33,7 +32,7 @@ monitoring, and observability.
 </p>
 
 <p>
-I am actively seeking a <strong>remote DevOps internship or junior role</strong> where I can apply my skills, 
+I am actively seeking a <strong>DevOps internship or junior role</strong> where I can apply my skills, 
 learn from experienced engineers, and contribute to reliable and scalable systems.
 </p>
 
