@@ -65,7 +65,7 @@ learn from experienced engineers, and contribute to scalable, reliable systems.
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,githubactions,git,github,linux,python,bash" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,githubactions,git,github,linux,python,bash,html,css,js,react,nestjs,mongodb,mysql,postgresql" />
 </div>
 
 <br/>
@@ -79,7 +79,9 @@ learn from experienced engineers, and contribute to scalable, reliable systems.
 | 🔁 CI/CD | Jenkins, GitHub Actions, AWS CodePipeline |
 | 🗄️ Version Control | Git, GitHub |
 | 🖥️ OS & Scripting | Linux (Ubuntu), Bash, Python |
-| 📊 Monitoring (Learning) | Prometheus, Grafana |
+| 🌐 Frontend | HTML, CSS, JavaScript, React.js |
+| 🔧 Backend | Node.js, NestJS |
+| 🗃️ Databases | MongoDB, MySQL, PostgreSQL |
 
 </div>
 
