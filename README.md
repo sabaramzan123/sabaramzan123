@@ -202,40 +202,7 @@ My current interest is understanding how AI agents can be used to
 
 <hr/>
 
-<h2 align="center">📊 GitHub Activity</h2>
-
-<br/>
-
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sabaramzan123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="180"
-    alt="Saba's GitHub Stats"
-  />
-
-  <img
-    src="https://streak-stats.demolab.com/?user=sabaramzan123&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Saba's GitHub Streak"
-  />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabaramzan123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="180"
-    alt="Saba's Top Languages"
-  />
-
-</div>
-
-<br/>
-<hr/>
+<h2 align="center">📊 GitHub Activity</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sabaramzan123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabaramzan123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabaramzan123&theme=tokyo-night&bg_color=000000&color=00b4d8&line=00b4d8&point=FFFFFF&area=true&hide_border=true" width="100%"/> </p> <hr/>
 
 
 <h2 align="center">🎯 Career Goal</h2>
