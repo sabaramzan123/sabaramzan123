@@ -200,8 +200,6 @@ My current interest is understanding how AI agents can be used to
 <br/>
 <hr/>
 
-<hr/>
-
 <h2 align="center">🎯 Career Goal</h2>
 
 <div align="center">
