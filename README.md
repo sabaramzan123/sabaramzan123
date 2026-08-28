@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=00b4d8&random=false&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;I'm+Saba+Ramzan+⚙️;" />
 </h1>
 
-<h3 align="center">Junior DevOps Engineer | Cloud & Automation Enthusiast 🚀</h3>
+<h3 align="center">DevOps & DevSecOps Engineer 🚀</h3>
 
 <br/>
 
